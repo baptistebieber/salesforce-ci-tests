@@ -36,6 +36,10 @@
     <name>CustomApplication</name>
   </types>
   <types>
+    <members>test_bbi</members>
+    <name>CustomLabel</name>
+  </types>
+  <types>
     <members>Account.CallHighlightAction</members>
     <members>Account.CancelEdit</members>
     <members>Account.Delete</members>
