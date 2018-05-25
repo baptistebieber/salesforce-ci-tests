@@ -1357,6 +1357,7 @@
         <editable>false</editable>
         <field>Speaker__c.Picture__c</field>
         <readable>false</readable>
+    </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
         <field>Task.ActivityDate</field>
