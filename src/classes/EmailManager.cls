@@ -9,6 +9,8 @@ public with sharing class EmailManager {
             email.setPlainTextBody(messages[i]);
             emails.add(email);
         }
+
+        
         Messaging.sendEmail(emails);
     }
 }
